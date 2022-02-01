@@ -1,5 +1,5 @@
 {
-  "name": "@rgossiaux/svelte-headlessui",
+  "name": "@phoikoi/svelte-headlessui",
   "description": "A complete, full-featured, unofficial Svelte port of Headless UI, an unstyled, fully accessible UI component library.",
   "keywords": [
     "svelte",
@@ -9,12 +9,12 @@
     "headless",
     "sveltejs"
   ],
-  "homepage": "https://github.com/rgossiaux/svelte-headlessui",
+  "homepage": "https://github.com/phoikoi/svelte-headlessui",
   "bugs": {
-    "url": "https://github.com/rgossiaux/svelte-headlessui/issues"
+    "url": "https://github.com/phoikoi/svelte-headlessui/issues"
   },
   "license": "MIT",
-  "repository": "github:rgossiaux/svelte-headlessui",
+  "repository": "github:phoikoi/svelte-headlessui",
   "version": "1.0.0-beta.8",
   "scripts": {
     "dev": "svelte-kit dev",
